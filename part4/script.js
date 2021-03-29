@@ -67,7 +67,7 @@ $('#btn-search').ready(
     //     $(this).toggle($(this).text().toLowerCase().indexOf(value)> -1)
         });
     });
-});
+
 
 
 
